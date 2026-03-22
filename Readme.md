@@ -29,7 +29,14 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 ## Calculations
 **System Parameters:**
 
-<img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/0fcecc05-0b05-4217-b6f1-2c405f26430d" />
+| Component | Parameter | Value |
+|-----------|-----------|-------|
+| Transmitter – Gaussian Pulse Generator | Operating wavelength | 1550 nm |
+| | Bit rate | 2.5 Gb/s |
+| | FWHM pulse width | 0.5 bit period |
+| | Chirp factor | -6 |
+| Fiber | Type | Corning SMF-28 |
+| | Length | 50 km |
 
 **Required Calculations:**
 <img width="1548" height="298" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
