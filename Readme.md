@@ -14,7 +14,9 @@ If the optical source has a spectral width much greater than the signal bandwidt
 
 <img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
+Block diagram
 
+<img width="494" height="308" alt="image" src="https://github.com/user-attachments/assets/40c0cf17-6345-4c32-837f-90ffb93c0ab2" />
 ---
 
 ### Output Pulse Broadening
@@ -67,9 +69,7 @@ Compare the simulation results with the theoretical calculations and discuss any
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4f00b3ce-2fc6-4136-9eaf-38a679e78c46" />
+
 ## Result
-
-<img width="1170" height="709" alt="image" src="https://github.com/user-attachments/assets/9206c448-8d83-48c9-87a0-71494e76d15d" />
-
-
-
+Thus  the results predicted by the linear system model of an optical fiber with the results of simulation is compared.
